@@ -1,0 +1,8 @@
+# API Keys
+OPENAI_API_KEY=your-openai-api-key-here
+SERPER_API_KEY=your-serper-api-key-here
+
+# Optional Configuration
+# LOG_LEVEL=INFO
+# MAX_TOKENS=800
+# EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
